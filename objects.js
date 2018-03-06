@@ -1,1 +1,1 @@
-var playlist = {};
+var playlist = { 'Green Day': "American Idiot"};
